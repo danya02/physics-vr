@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physics VR", "Assembly-CSharp.csproj", "{973ACA76-5275-C4FC-4A01-FDF36CE0B371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physics VR", "Assembly-CSharp-Editor.csproj", "{3B00FDF3-D098-6293-CD5D-BC4494526EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{973ACA76-5275-C4FC-4A01-FDF36CE0B371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973ACA76-5275-C4FC-4A01-FDF36CE0B371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973ACA76-5275-C4FC-4A01-FDF36CE0B371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973ACA76-5275-C4FC-4A01-FDF36CE0B371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B00FDF3-D098-6293-CD5D-BC4494526EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B00FDF3-D098-6293-CD5D-BC4494526EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B00FDF3-D098-6293-CD5D-BC4494526EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B00FDF3-D098-6293-CD5D-BC4494526EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
